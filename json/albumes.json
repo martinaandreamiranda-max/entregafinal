@@ -1,0 +1,53 @@
+
+[
+  {
+    "Nombre": "Eyes Wide Open",
+    "Año": 2015,
+    "Descripción": "The beginning of Sabrina's musical journey, with a youthful pop sound.",
+    "Hits": "Eyes Wide Open, Can't Blame a Girl for Trying",
+    "Imagen": "img/ewo.jpg"
+  },
+  {
+    "Nombre": "EVOLution",
+    "Año": 2016,
+    "Descripción": "A new chapter with a more confident sound and a growing artistic identity.",
+    "Hits": "On Purpose, Thumbs",
+    "Imagen": "img/evolution.jpg"
+  },
+  {
+    "Nombre": "Singular: Act I",
+    "Año": 2018,
+    "Descripción": "A bold era exploring independence, confidence and a more mature pop style.",
+    "Hits": "Almost Love, Sue Me",
+    "Imagen": "img/singularact1.jpg"
+  },
+  {
+    "Nombre": "Singular: Act II",
+    "Año": 2019,
+    "Descripción": "The continuation of the Singular era, combining vulnerability and self-expression.",
+    "Hits": "In My Bed, Looking at Me",
+    "Imagen": "img/singularact2.jpg"
+  },
+  {
+    "Nombre": "emails i can't send",
+    "Año": 2022,
+    "Descripción": "An intimate and personal album filled with storytelling, heartbreak and growth.",
+    "Hits": "because i liked a boy, Nonsense, Feather",
+    "Imagen": "img/eics.jpg"
+  },
+  {
+    "Nombre": "Short n' Sweet",
+    "Año": 2024,
+    "Descripción": "A playful and glamorous pop era, blending humor, romance and confidence.",
+    "Hits": "Espresso, Please Please Please, Taste",
+    "Imagen": "img/sns.jpg"
+  },
+  {
+    "Nombre": "Man's Best Friend",
+    "Año": 2025,
+    "Descripción": "A witty and theatrical chapter that continues Sabrina's evolution as a pop artist.",
+    "Hits": "Manchild, Tears",
+    "Imagen": "img/mbf.jpg"
+  }
+]
+

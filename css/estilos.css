@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agrave+Pro:wght@100..700&display=swap');
+
+:root {--celeste: #DCE9F0;
+    --azul: #6689A3;
+    --azul-oscuro: #344F68;
+    --azul-noche: #21384E;
+    --blanco: #F5F8FA;}
+
+body {background-color: var(--celeste);
+    color: var(--azul-noche);
+    font-family: 'Agrave Pro', sans-serif;
+    font-size: 1rem;}
+
+h1, h2, h3, h5, .navbar-brand {font-family: 'Bodoni Moda', serif;
+    color: var(--azul-oscuro);}
+
+.navbar-brand {font-size: 2rem;
+    font-weight: 600;}
+
+h1 {font-size: 3rem;}
+
+h2 {font-size: 2rem;}
+
+.navbar {background-color: var(--azul);}
+
+.navbar-brand, .nav-link {color: white;}
+
+#boton-color, .btn-primary {background-color: var(--azul-noche);
+    border-color: var(--azul-noche);
+    color: var(--blanco);}
+
+.foto-hero {width: 100%;
+    height: 450px;}
+
+.card {background-color: var(--blanco);
+    color: var(--azul-noche);
+    transition: background-color 0.3s ease;}
+
+.card:hover {background-color: var(--celeste);}
+
+.card-title {color: var(--azul-oscuro);}
+
+.card-img-top {margin-bottom: 1rem;}
+
+#recuadro-story {border: 2px solid #25465E;}
+
+#recuadro-love {background-color: #E5F5FE;
+    border: 2px solid #25465E;}
+
+body.oscuro {background-color: var(--azul-oscuro);
+    color: var(--blanco);}
+
+body.oscuro .navbar {background-color: var(--azul-noche);}
+
+body.oscuro .navbar-brand, body.oscuro .nav-link {color: var(--blanco);}
+
+body.oscuro h1, body.oscuro h2 {color: var(--celeste);}
+
+body.oscuro #boton-color, body.oscuro .btn-primary {background-color: var(--celeste);
+    border-color: var(--celeste);
+    color: var(--azul-noche);}
+
+body.oscuro .card {background-color: #45647D;
+    color: var(--blanco);}
+
+body.oscuro .card:hover {background-color: var(--azul-noche);}
+
+body.oscuro .card-title {color: var(--celeste);}
+
+body.oscuro #recuadro-story,body.oscuro #recuadro-love {border-color: var(--celeste);}
+
+body.oscuro #recuadro-love {background-color: var(--azul-noche);}
