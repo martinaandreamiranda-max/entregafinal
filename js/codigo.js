@@ -1,4 +1,3 @@
-
 const contenedor = document.querySelector("#galeria-albumes");
 
 fetch("json/albumes.json")
@@ -19,6 +18,8 @@ fetch("json/albumes.json")
                         <p class="card-text"><strong>Description:</strong> ${album.Descripción}</p>
 
                         <p class="card-text"><strong>Hits:</strong> ${album.Hits}</p>
+
+                        <a href="${album.Link}" class="btn btn-primary">Listen on YouTube</a>
 
                     </div>
                 </div>

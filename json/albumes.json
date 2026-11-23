@@ -1,53 +1,56 @@
-
-[
-  {
+[{
     "Nombre": "Eyes Wide Open",
     "Año": 2015,
     "Descripción": "The beginning of Sabrina's musical journey, with a youthful pop sound.",
     "Hits": "Eyes Wide Open, Can't Blame a Girl for Trying",
-    "Imagen": "img/ewo.jpg"
+    "Imagen": "img/ewo.jpg",
+    "Link": "https://www.youtube.com/watch?v=R4VJyfCcOJc&list=PLq6sYIxQliNSa7xly0IfjwWRQ8nu9EaaW"
   },
   {
     "Nombre": "EVOLution",
     "Año": 2016,
     "Descripción": "A new chapter with a more confident sound and a growing artistic identity.",
     "Hits": "On Purpose, Thumbs",
-    "Imagen": "img/evolution.jpg"
+    "Imagen": "img/evolution.jpg",
+    "Link": "https://www.youtube.com/watch?v=ckIM58Ecpcw&list=PLq6sYIxQliNQUps9O6qT2rag-75RP4qCz"
   },
   {
     "Nombre": "Singular: Act I",
     "Año": 2018,
     "Descripción": "A bold era exploring independence, confidence and a more mature pop style.",
     "Hits": "Almost Love, Sue Me",
-    "Imagen": "img/singularact1.jpg"
+    "Imagen": "img/singularact1.jpg",
+    "Link": "https://www.youtube.com/watch?v=JudqK1hL18w&list=PLq6sYIxQliNSqFPKxuEyLr62YuXiJXno_"
   },
   {
     "Nombre": "Singular: Act II",
     "Año": 2019,
     "Descripción": "The continuation of the Singular era, combining vulnerability and self-expression.",
     "Hits": "In My Bed, Looking at Me",
-    "Imagen": "img/singularact2.jpg"
+    "Imagen": "img/singularact2.jpg",
+    "Link": "https://www.youtube.com/watch?v=FN3bTP84GCU&list=PLq6sYIxQliNQ16y4UZ0hzX_5_K-sjQTtX"
   },
   {
     "Nombre": "emails i can't send",
     "Año": 2022,
     "Descripción": "An intimate and personal album filled with storytelling, heartbreak and growth.",
     "Hits": "because i liked a boy, Nonsense, Feather",
-    "Imagen": "img/eics.jpg"
+    "Imagen": "img/eics.jpg",
+    "Link": "https://www.youtube.com/watch?v=YcSP1ZUf1eQ&list=PLq6sYIxQliNTcnUU0FVqrOrJVoL2PEjly"
   },
   {
     "Nombre": "Short n' Sweet",
     "Año": 2024,
     "Descripción": "A playful and glamorous pop era, blending humor, romance and confidence.",
     "Hits": "Espresso, Please Please Please, Taste",
-    "Imagen": "img/sns.jpg"
+    "Imagen": "img/sns.jpg",
+    "Link": "https://www.youtube.com/watch?v=KEG7b851Ric&list=PLq6sYIxQliNS1YoEOaxYxoeHdZBXLy8aQ"
   },
   {
     "Nombre": "Man's Best Friend",
     "Año": 2025,
     "Descripción": "A witty and theatrical chapter that continues Sabrina's evolution as a pop artist.",
     "Hits": "Manchild, Tears",
-    "Imagen": "img/mbf.jpg"
-  }
-]
-
+    "Imagen": "img/mbf.jpg",
+    "Link": "https://www.youtube.com/watch?v=aSugSGCC12I&list=PLq6sYIxQliNQeUxsUU0NGU7lfSnEurRtK"
+  }]
