@@ -15,7 +15,7 @@ body {background-color: var(--celeste);
 h1, h2, h3, h5, .navbar-brand {font-family: 'Bodoni Moda', serif;
     color: var(--azul-oscuro);}
 
-.navbar-brand {font-size: 2rem;
+.navbar-brand {font-size: 1.5rem;
     font-weight: 600;}
 
 h1 {font-size: 3rem;}
