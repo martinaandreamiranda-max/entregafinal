@@ -19,7 +19,7 @@ fetch("json/albumes.json")
 
                         <p class="card-text"><strong>Hits:</strong> ${album.Hits}</p>
 
-                        <a href="${album.Link}" class="btn btn-primary">Listen on YouTube</a>
+                        <a href="${album.Link}" target="_blank" class="btn btn-primary">Find on YouTube</a>
 
                     </div>
                 </div>
